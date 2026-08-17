@@ -24,3 +24,6 @@ print("x-y: ",x-y)
 print("hello world!")
 print("Have a good day!")
 print("Learning python is fun!")
+
+# Print "I am" and the number 25
+print("I am",25)
