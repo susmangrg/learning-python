@@ -17,3 +17,10 @@ print("x+y: ",x+y)
 x=float(input("Enter the value of x:"))
 y+float(input("Enter the value of y:"))
 print("x-y: ",x-y)
+
+# Print "Hello World!"
+# Print "Have a good day."
+# Print "Learning Python is fun!"
+print("hello world!")
+print("Have a good day!")
+print("Learning python is fun!")
