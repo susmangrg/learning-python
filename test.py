@@ -12,3 +12,8 @@ print("sum",a+b)
 x=float(input("Enter the value of x:"))
 y=float(input("Enter the value of y:"))
 print("x+y: ",x+y)
+
+#to calculate the difference between x and y (user input method)
+x=float(input("Enter the value of x:"))
+y+float(input("Enter the value of y:"))
+print("x-y: ",x-y)
