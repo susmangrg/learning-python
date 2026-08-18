@@ -37,14 +37,22 @@
 # print(str1)
 
 #string - concatenate and len example
-str1="apna"
-len1=len(str1)
-print(len1)
+# str1="apna"
+# len1=len(str1)
+# print(len1)
 
-str2="college"
-len2=len(str2)
-print(len2)
+# str2="college"
+# len2=len(str2)
+# print(len2)
 
-final_str=str1+ " " + str2
-print(final_str)
-print(len(final_str))
+# final_str=str1+ " " + str2
+# print(final_str)
+# print(len(final_str))
+
+#index - to find out the position of the string 
+str = "apna college"
+ch = str[2]
+print(ch)
+
+str='apna college'
+print(str[1])
