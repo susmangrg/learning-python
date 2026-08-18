@@ -28,10 +28,23 @@
 # # Print "I am" and the number 25
 # print("I am",25)
 
-#Creating a string in python 
-str1= "This is a string. We are creating in python."
-print(str1)
+# #Creating a string in python 
+# str1= "This is a string. We are creating in python."
+# print(str1)
 
-#If want the sentence from "We" to be started on a new paragraph, use function "\n"
-str1="This is a string.\nWe are creating in python"
-print(str1)
+# #If want the sentence from "We" to be started on a new paragraph, use function "\n"
+# str1="This is a string.\nWe are creating in python"
+# print(str1)
+
+#string - concatenate and len example
+str1="apna"
+len1=len(str1)
+print(len1)
+
+str2="college"
+len2=len(str2)
+print(len2)
+
+final_str=str1+ " " + str2
+print(final_str)
+print(len(final_str))
