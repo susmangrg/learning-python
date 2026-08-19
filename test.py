@@ -50,9 +50,15 @@
 # print(len(final_str))
 
 #index - to find out the position of the string 
-str = "apna college"
-ch = str[2]
-print(ch)
+# str = "apna college"
+# ch = str[2]
+# print(ch)
+# str='apna college'
+# print(str[1])
 
-str='apna college'
-print(str[1])
+#slicing - finding out the values within the string 
+str="apnacollege"
+print(str[0:4])
+print(str[0:])
+print(str[ :5])
+print(str[5:])
