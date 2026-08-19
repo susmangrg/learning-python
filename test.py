@@ -57,8 +57,12 @@
 # print(str[1])
 
 #slicing - finding out the values within the string 
-str="apnacollege"
-print(str[0:4])
-print(str[0:])
-print(str[ :5])
-print(str[5:])
+# str="apnacollege"
+# print(str[0:4])
+# print(str[0:])
+# print(str[ :5])
+# print(str[5:])
+
+#negative slicing 
+str="Apple"
+print(str[-5:-2])
