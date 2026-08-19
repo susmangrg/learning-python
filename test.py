@@ -63,6 +63,15 @@
 # print(str[ :5])
 # print(str[5:])
 
-#negative slicing 
-str="Apple"
-print(str[-5:-2])
+# #negative slicing 
+# str="Apple"
+# print(str[-5:-2])
+
+#string functions 
+str="i am studying python from ApnaCollege"
+print(str.endswith("ege"))
+print(str.capitalize())
+print(str.replace("o","a"))
+print(str.find("o"))
+print(str.find("python"))
+print(str.count("o"))
