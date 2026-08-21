@@ -76,6 +76,10 @@
 # print(str.find("python"))
 # print(str.count("o"))
 
-# WAP to input user first name & print its length 
-name = input("Enter your name: ")
-print("length of  your name is", len(name))
+# # WAP to input user first name & print its length 
+# name = input("Enter your name: ")
+# print("length of  your name is", len(name))
+
+#WAP to find the occurence of '$' in a string
+str="I have $1000 yesterday and today $5000"
+print(str.count("$"))
