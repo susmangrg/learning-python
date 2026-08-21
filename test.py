@@ -80,6 +80,10 @@
 # name = input("Enter your name: ")
 # print("length of  your name is", len(name))
 
-#WAP to find the occurence of '$' in a string
-str="I have $1000 yesterday and today $5000"
-print(str.count("$"))
+# #WAP to find the occurence of '$' in a string
+# str="I have $1000 yesterday and today $5000"
+# print(str.count("$"))
+
+age = 16
+if(age >= 18) :
+    print("can vote & apply for license")
