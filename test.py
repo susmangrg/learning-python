@@ -68,10 +68,14 @@
 # print(str[-5:-2])
 
 #string functions 
-str="i am studying python from ApnaCollege"
-print(str.endswith("ege"))
-print(str.capitalize())
-print(str.replace("o","a"))
-print(str.find("o"))
-print(str.find("python"))
-print(str.count("o"))
+# str="i am studying python from ApnaCollege"
+# print(str.endswith("ege"))
+# print(str.capitalize())
+# print(str.replace("o","a"))
+# print(str.find("o"))
+# print(str.find("python"))
+# print(str.count("o"))
+
+# WAP to input user first name & print its length 
+name = input("Enter your name: ")
+print("length of  your name is", len(name))
